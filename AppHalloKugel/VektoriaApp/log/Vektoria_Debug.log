@@ -1,0 +1,123 @@
+****************
+Vektoria-Logfile
+
+****************
+Ok:    Distribudted Graphics API established
+Ok:    Collected materials in virtual hierarchy
+Ok:    Collected materials in real hierarchy
+Ok:    Cyberglasses API established
+Ok:    Graphics API established
+Ok:    DirectX12-Module established
+Info:  Tearing supported: 1
+Info:  GPU Adapter 1: NVIDIA GeForce RTX 2080
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 4104126464
+Info:  - Memory Shared System   : 4265439232
+Info:      - Output 1: \\.\DISPLAY1
+Info:          - Resolution: 640 * 480, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 720 * 480, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 720 * 480, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 720 * 480, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 720 * 480, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 720 * 576, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 720 * 576, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 720 * 576, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 720 * 576, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 1024, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 1024, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 1024, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 1024, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1600 * 1200, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1200, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 1920 * 1440, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2048 * 1536, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2560 * 1440, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2560 * 1440, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2560 * 1440, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2560 * 1440, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 2560 * 1600, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:          - Resolution: 3840 * 2160, Refresh rate: 40012 / 1000 = 40.012001 Hz
+Info:          - Resolution: 3840 * 2160, Refresh rate: 60000 / 1000 = 60.000000 Hz
+Info:      - Nr of Outputs: 2
+Info:  GPU Adapter 2: Microsoft Basic Render Driver
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 0
+Info:  - Memory Shared System   : 4265439232
+Info:      - Nr of Outputs: 1
+Info:  Choose 1. adapter as best
+Ok:    Sound Api created
+Ok:    Frames created
+Ok:    Scenes created
+Ok:    Hierarchy checked.
+Ok:    Materials created
+Ok:    Viewports created

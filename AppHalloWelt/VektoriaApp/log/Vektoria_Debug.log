@@ -1,0 +1,19 @@
+****************
+Vektoria-Logfile
+
+****************
+Error: Couldn't load DLLGraphicsServer
+Ok:    Collected materials in virtual hierarchy
+Ok:    Collected materials in real hierarchy
+Ok:    Graphics API established
+Error: Couldn't load DLLCyberglassesOpenVR, taking DLLCyberglassesOpenVR instead
+Error: Couldn't load DLLCyberglassesOpenVR either
+Warn:  Your sound card ís not compatible to DirectSound, so the calculation of the 3D sounds will reduce the frame rate.
+Info:  PrimaryBuffer buffer has 32768 Bytes.
+Ok:    DirectSound initialized
+Ok:    Sound Api created
+Ok:    Frames created
+Ok:    Scenes created
+Ok:    Hierarchy checked.
+Ok:    Materials created
+Ok:    Viewports created
